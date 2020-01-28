@@ -3,6 +3,7 @@ import React from "react";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { withRouter } from "react-router";
 import { NavLink } from "react-router-dom";
+// import React, { Component } from 'react'
 
 const NavigationComponent = props => {
   const dynamicLink = (route, linkText) => {
